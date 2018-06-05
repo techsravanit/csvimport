@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: michaelcgood-spring-batch-csv
+Implementation-Version: 0.0.1
+Built-By: kisor
+Implementation-Vendor-Id: com.michaelcgood
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/michaelcgood
+ -spring-batch-csv/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
