@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: importcsvfile
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kisor
+Implementation-Vendor-Id: com.purpletalk
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/importcsvfile
+Created-By: Maven Integration for Eclipse
+
